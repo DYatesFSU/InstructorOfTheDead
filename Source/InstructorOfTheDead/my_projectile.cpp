@@ -17,7 +17,6 @@ Amy_projectile::Amy_projectile()
 void Amy_projectile::BeginPlay()
 {
 	Super::BeginPlay();
-	
 
  
 }
